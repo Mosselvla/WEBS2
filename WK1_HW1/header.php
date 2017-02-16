@@ -19,12 +19,10 @@
             <img src="VMwares.jpg">
         </a>
     </p>
-    <div>
-        <ul>
-            <li><a href="home.php">Home</a></li>
-            <li><a href="products.php">Products</a></li>
-            <li><a href="about.php">About</a></li>
-        </ul>
-    </div>
+    <nav>
+        <li><a href="home.php">Home</a></li>
+        <li><a href="products.php">Products</a></li>
+        <li><a href="about.php">About</a></li>
+    </nav>
 </body>
 </html>

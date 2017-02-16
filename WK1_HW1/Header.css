@@ -1,15 +1,17 @@
-ul {
+nav {
     background-color: cornflowerblue;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    font-family: "Verdana", Verdana, serif;
 }
 
 li {
     display: inline;
 }
 
-div {
-    font-family: "Verdana", Verdana, serif;
+li a {
+    color: black;
 }
+
 
