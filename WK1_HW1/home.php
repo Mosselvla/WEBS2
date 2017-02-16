@@ -10,6 +10,10 @@
 include 'header.php';
 ?>
 <html>
+    <head>
+        <link rel="stylesheet" href="Header.css">
+
+    </head>
     <body>
         <h1>Welcome to VMwares! We don't know what we sell yet.</h1>
     </body>
