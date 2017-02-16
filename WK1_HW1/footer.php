@@ -8,7 +8,7 @@
 ?>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="Footer.css.css">
+    <link rel="stylesheet" href="Footer.css">
 </head>
 <footer>
     <meta charset="UTF-8">
