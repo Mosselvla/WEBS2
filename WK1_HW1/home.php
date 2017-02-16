@@ -15,7 +15,7 @@ include 'header.php';
 
     </head>
     <body>
-        <h1>Welcome to VMwares! We don't know what we sell yet.</h1>
+        <h1>Welcome to VMwares! We don't know what we sell yet.</h1><p>
     </body>
 </html>
 <?php
