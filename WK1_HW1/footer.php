@@ -9,10 +9,11 @@ $date = date("d-m-y H:i");
 ?>
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
     <link rel="stylesheet" href="Footer.css">
 </head>
-<footer>
-    <meta charset="UTF-8">
+<div id="Footer">
+
     <h3>Made by Mick and Victor <?php echo $date ?></h3>
-</footer>
+</div>
 </html>

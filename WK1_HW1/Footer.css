@@ -1,8 +1,12 @@
-footer {
-    height: 50%;
+#Footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;   /* Height of the footer */
+    background:#6cf;
 }
 
-footer h3 {
+#Footer h3 {
 
     margin-left: auto;
     margin-right: auto;
