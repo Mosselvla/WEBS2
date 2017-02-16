@@ -11,7 +11,7 @@ include 'header.php';
 ?>
 <html>
     <head>
-        <link rel="stylesheet" href="Header.css">
+        <link rel="stylesheet" href="Body.css">
 
     </head>
     <body>
