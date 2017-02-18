@@ -8,7 +8,10 @@
 include 'header.php';
 ?>
 <html>
-    <body>
+    <head>
+        <link rel="stylesheet" href="Body.css">
+    </head>
+    <body background="background.png">
         <div>
             ayylmao
         </div>

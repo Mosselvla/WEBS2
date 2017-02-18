@@ -8,7 +8,10 @@
 include 'header.php';
 ?>
 <html>
-<body>
+<head>
+    <link rel="stylesheet" href="Body.css">
+</head>
+<body background="background.png">
     <h1>About us</h1>
     <div>Our goal is to serve you with the best wares!</div>
 

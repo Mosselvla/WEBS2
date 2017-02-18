@@ -12,9 +12,9 @@ include 'header.php';
 <html>
     <head>
         <link rel="stylesheet" href="Body.css">
-
     </head>
-    <body>
+    <body background="background.png">
+
         <h1>Welcome to VMwares! We don't know what we sell yet.</h1><p>
     </body>
 </html>
