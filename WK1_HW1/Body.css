@@ -10,3 +10,11 @@ div {
     color: aliceblue;
 
 }
+
+table {
+    color: aliceblue;
+}
+
+table, th, td {
+    border: 1px solid white;
+}
